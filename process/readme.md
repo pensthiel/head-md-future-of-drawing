@@ -1,5 +1,12 @@
 # Process
 
+Shortcut:
+- [2023-10-30](*2023-10-30*) Research 1
+- [2023-10-31](*2023-10-31*) Prototype 1
+- [2023-11-01](*2023-11-01*) Testing 1
+
+
+
 *2023-10-30*
 ## Researche continuation and animation machine idea
 
