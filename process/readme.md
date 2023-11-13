@@ -1,10 +1,11 @@
 # Process
 
-Shortcut:
+Shortcuts:
 - [2023-10-30](*2023-10-30*) Research 1
 - [2023-10-31](*2023-10-31*) Prototype 1
 - [2023-11-01](*2023-11-01*) Testing 1
-
+- [2023-11-03](*2023-11-03*) Pitch and key insights
+- [2023-11-13](*2023-11-13*) Prototype 2
 
 
 *2023-10-30*
@@ -154,15 +155,14 @@ Get an A3 page of paper and draw a hundred different animation machines !
 
 
 *2023-11-03*
-## Project description and pitch
+## Pitch and key insights
 
+### Project description
 I'm on a mission to make analogue animation more accessible and enjoyable for everyone, from hobbyists and indie filmmakers to kids. Animation, for me, is the ultimate worry-free way to bring creativity to life. Inspired by user-friendly iPad animation apps, my project aims to bring the simplicity and fun of digital animation to the tangible world. By creating a device that simplifies the animation process, I hope to eliminate the traditional complexities, making it quick and enjoyable. This project is dedicated to utilizing Caran d'Ache tools, providing a wide range of textures and creative possibilities that traditional animation offers.
 
 ### PITCH
 This project is to build a user-friendly tool that simplifies analogue animation. Inspired by easy-to-use iPad animation apps, I am trying to bring that simplicity to analogue animation. Making animation accessible, quick, and fun for everyone, with the tactile joy of hand-drawn art. The object is dedicated to giving a fun project to do, providing a worry-free way to use the Caran d'Ache tools for minimal friction and maximal accessibility and creativity.
 
-### Planned user journey
-- I am still building my next prototype
 
 ### key insights
 I've tried to engage in as many discussions as possible about this subject with anyone I've recently met.
@@ -179,7 +179,8 @@ I've tried to engage in as many discussions as possible about this subject with 
 - Another thing that will paralyze anyone is feeling like we're not allowed to fail. In one of my experiments, non-illustrators felt that it was easier to draw on toilet paper (which is difficult to work with) than on normal paper because they felt that it was okay to fail on something that is destined to be thrown away. They have a hard time allowing themselves to waste paper.
 - It is most difficult to allow ourselves to fail or waste resources, like paper or nice pens and art tools such as Caran d'Ache products.
 - To be creative, one must be allowed to fail, destroy, and waste resources.
-- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when trying it.
+- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when trying.
+- The final project needs to be more than just a tool.
 
 
 *2023-11-13*
