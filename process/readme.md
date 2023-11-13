@@ -143,8 +143,44 @@ Drawing on toilet paper is tidious.
 
 USE " analogue " INSTEAD OF " traditional ".
 
+### Teachers comments
+Should be more than just a tool.
+but it's good and works great, think of other forms, story telling? could it be a teacher? coach? tutorial but in a creative way? does the roll tell a story? (I would rather the roll stays blank)
+
 
 ### NEXT STEP
 Get an A3 page of paper and draw a hundred different animation machines !
 (to iterate and find unlikely forms and systems)
 
+
+*2023-11-03*
+## Project description and pitch
+
+I'm on a mission to make analogue animation more accessible and enjoyable for everyone, from hobbyists and indie filmmakers to kids. Animation, for me, is the ultimate worry-free way to bring creativity to life. Inspired by user-friendly iPad animation apps, my project aims to bring the simplicity and fun of digital animation to the tangible world. By creating a device that simplifies the animation process, I hope to eliminate the traditional complexities, making it quick and enjoyable. This project is dedicated to utilizing Caran d'Ache tools, providing a wide range of textures and creative possibilities that traditional animation offers.
+
+### PITCH
+This project is to build a user-friendly tool that simplifies analogue animation. Inspired by easy-to-use iPad animation apps, I am trying to bring that simplicity to analogue animation. Making animation accessible, quick, and fun for everyone, with the tactile joy of hand-drawn art. The object is dedicated to giving a fun project to do, providing a worry-free way to use the Caran d'Ache tools for minimal friction and maximal accessibility and creativity.
+
+### Planned user journey
+- I am still building my next prototype
+
+### key insights
+I've tried to engage in as many discussions as possible about this subject with anyone I've recently met.
+- People who have tried animation had fun drawing in that context, even if they don't normally draw.
+- Any drawings can result in interesting movements, but most people feel the drawings need to be "good," making animation seem inaccessible.
+- Even those who are comfortable with drawing still consider analogue animation inaccessible due to the steps, complications, and time it involves. (iPad animation apps alleviate this, but not everyone enjoys digital drawing, and we don't all have an iPad.)
+- Professional animators are also interested in finding processes that can yield different and interesting results, and any reduction in friction is welcome in any process.
+- Traditional animation courses typically begin with a simple ball bouncing, which is a good way to explain how animation works in a simple, accessible manner, helping people get started.
+- I've encountered frustration when trying to convey to people that drawings don't need to look good and that it's possible to draw without worrying about how it looks. But how can I convey that with my project? How can I help people let go of perfectionism?
+- Children can naturally do this, but it becomes harder as we age, affecting everyone, both regular people and experienced illustrators alike.
+- Sometimes when I show examples of "bad" drawings that are fun, it helps.
+- In my studies of illustration and comics, I've encountered multiple ways in which drawing exercises are used to loosen up and help with letting go of perfectionism. These exercises include drawing with closed eyes, using the non-dominant hand, or applying constraints like designers do to enhance creativity. Constraints mean we can't achieve perfection, so we don't demand good results from ourselves, and we're not paralyzed by expectations. This unleashes creativity.
+- I've also attempted to study procrastination, and the desire to excel seems to paralyze people to the point where they can't even try at all.
+- Another thing that will paralyze anyone is feeling like we're not allowed to fail. In one of my experiments, non-illustrators felt that it was easier to draw on toilet paper (which is difficult to work with) than on normal paper because they felt that it was okay to fail on something that is destined to be thrown away. They have a hard time allowing themselves to waste paper.
+- It is most difficult to allow ourselves to fail or waste resources, like paper or nice pens and art tools such as Caran d'Ache products.
+- To be creative, one must be allowed to fail, destroy, and waste resources.
+- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when trying it.
+
+
+*2023-11-13*
+## Prototype 2
