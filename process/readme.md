@@ -5,7 +5,12 @@ Shortcuts:
 - [2023-10-31](*2023-10-31*) Prototype 1
 - [2023-11-01](*2023-11-01*) Testing 1
 - [2023-11-03](*2023-11-03*) Pitch and key insights
-- [2023-11-13](*2023-11-13*) Prototype 2
+- [2023-11-13](*2023-11-13*) Prototype 2 (fail)
+- [2023-11-14](*2023-11-14*) Sketching and prototype number 3
+
+*2023-10-16 - 2023-10-26*
+Refere to the files on the process folder to view 
+what I made before creating the git.
 
 
 *2023-10-30*
@@ -181,6 +186,7 @@ I've tried to engage in as many discussions as possible about this subject with 
 - To be creative, one must be allowed to fail, destroy, and waste resources.
 - In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when drawing on paper rolls.
 - The final project needs to be more than just a tool.
+- For optimal use, one hand should have access to "next frame" button while the other hand is drawing.
 
 
 *2023-11-13*
@@ -196,15 +202,23 @@ Jokes aside, I enjoyed building this, and I love the form and design. However, i
 
 
 
-*2023-11-13*
-## Prototype 3
+*2023-11-14*
+## Sketching and prototype number 3
 Idea drawings
 
 Projector on paper roll iterations
 ![projector on paper roll drawings](2023-11-14/IMG_1016.jpg)
 
+I then realised that instead of the paper rolling, the device could be moving on a large area of paper so that there is both an animation output and an analogue cooperative artwork output.
+Then the project becoms a mix of 2 different things, animation and cooperative doodling...
+
+The thought is that for an exhibition context it would be more interesting and entertaining for the drawings to output to something phisical as well as digital.
+
+
 Form and movement iterations
 ![form and movement drawings](2023-11-14/drawings.jpg)
+
+A rail mechanisme like on drawing machines would work, but having an RC car type of device driving around would be infinitely more entertaining. Of course it would be automatic, ai driven.
 
 Phyisical test with a projector
 ![projector testing](2023-11-14/IMG_9946.jpg)
@@ -215,7 +229,13 @@ How it would work:
 ![projector testing](2023-11-14/photoshop2.jpg)
 
 What the output could look like after many users used the device on the same canvas...
-The canvas would be big like 1m x 1m.
+The canvas would be big like 1m x 1m on a table.
+
+But perhaps it would make more sense on the floor? Then it could be even bigger...
+But i'm not sure. I'm wondering if this is too much and maybe it was better as a simple tool.
 
 ![projector testing](2023-11-14/doodle-boy-decorates-restaurant-joe-whale-12-5dbfd6e6f2c41__700.jpg)
 
+At least the projector part works, mine had to be placed far from the canvas but i've been told that some projectors are designed for shorter ranges.
+
+I used my phone here but i would like it to have its own device that does camera + driving algorithm for the wheels + streaming to projector + screen for buttons and anomation preview ?
