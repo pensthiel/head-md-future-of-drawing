@@ -261,3 +261,9 @@ I would like the screen to feature a button for inspiration, if someone doesn't 
 As well as some naive art insperation to loosen up when drawing
 ![button2](2023-11-14/button2.png)
 ![naive-art](2023-11-14/kids-drawings.jpg)
+
+The text generator would be random words while the image output would be examples of kids drawings or simple flipbook animations.
+
+![anim-example](2023-11-14/flipbook/anim3.gif)
+![anim-example2](2023-11-14/flipbook/anim6.gif)
+![anim-example3](2023-11-14/flipbook/anim8.gif)
