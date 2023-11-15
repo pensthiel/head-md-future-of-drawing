@@ -9,7 +9,7 @@ Shortcuts:
 
 
 *2023-10-30*
-## Researche continuation and animation machine idea
+## animation machine idea
 
 
 ### Interview
@@ -179,9 +179,42 @@ I've tried to engage in as many discussions as possible about this subject with 
 - Another thing that will paralyze anyone is feeling like we're not allowed to fail. In one of my experiments, non-illustrators felt that it was easier to draw on toilet paper (which is difficult to work with) than on normal paper because they felt that it was okay to fail on something that is destined to be thrown away. They have a hard time allowing themselves to waste paper.
 - It is most difficult to allow ourselves to fail or waste resources, like paper or nice pens and art tools such as Caran d'Ache products.
 - To be creative, one must be allowed to fail, destroy, and waste resources.
-- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when trying.
+- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when drawing on paper rolls.
 - The final project needs to be more than just a tool.
 
 
 *2023-11-13*
 ## Prototype 2
+~The tale of a failed experiment~
+
+![drawing](2023-11-13/IMG_1015.jpg)
+![build](2023-11-13/IMG_1003.jpg)
+
+Jokes aside, I enjoyed building this, and I love the form and design. However, it doesn't work because physics don't operate that way, and I'm neither a scientist nor an engineer.
+
+![demo](2023-11-13/IMG_1012.jpg)
+
+
+
+*2023-11-13*
+## Prototype 3
+Drawings of ideas:
+
+Projector on paper roll iterations
+![projector on paper roll drawings](2023-11-14/IMG_1016.jpg)
+
+Form and movement iterations
+![form and movement drawings](2023-11-14/drawings.jpg)
+
+Phyisical test with a projector
+![projector testing](2023-11-14/IMG_9946.jpg)
+![projector testing](2023-11-14/IMG_9947.jpg)
+
+How it would work:
+![projector testing](2023-11-14/Flat+table+on+wheels+(Large) copy.jpg)
+![projector testing](2023-11-14/Flat+table+on+wheels+(Large)2copy.jpg)
+
+What the output could look like after many users used the device on the same canvas...
+The canvas would be big like 1m x 1m.
+![projector testing](2023-11-14/doodle-boy-decorates-restaurant-joe-whale-12-5dbfd6e6f2c41__700.jpg)
+
