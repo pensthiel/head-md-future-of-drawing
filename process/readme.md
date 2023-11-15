@@ -8,10 +8,17 @@ Shortcuts:
 - [2023-11-13](*2023-11-13*) Prototype 2 (fail)
 - [2023-11-14](*2023-11-14*) Sketching and prototype number 3
 
-*2023-10-16 - 2023-10-26*
-Refere to the files on the process folder to view 
-what I made before creating the git.
+<br/><br/>
 
+
+*2023-10-16*
+to 
+*2023-10-26*
+
+Refere to the files on the process folder to view what was made before creating the git.
+
+
+<br/><br/>
 
 *2023-10-30*
 ## Animation machine idea
@@ -37,6 +44,7 @@ Onion skin, new frame and export video.
 
 I absolutely love those ipad apps but when drawing on a tablet i loose all the sensory joy of traditional drawing tools such as the Caren d'ache products. My thought was that If i could make an app or tool that can provide tools such as Onion skin and "next frame" but phisically to use with traditional tool, I could make hand drawn or paint animation as accessible and as easy as when I use those ipad apps, we could make works as expressive as my digital exaples but with the feeling of physical tools and with the beauty, colours and textures of Caren d'ache tools.
 
+<br/>
 
 ### thoughts about the process
 
@@ -70,7 +78,7 @@ ipad-like silly animations but with ~ sensory pleasur ~ and *texture* and ALL TH
 ### other unrelated ideas:
 ![](2023-10-30-ideas+text/IMG_0864.jpg)
 
-
+<br/><br/>
 
 *2023-10-31*
 ## Creation of the git, and building a cardboard prototype
@@ -85,7 +93,7 @@ I've put a piece of clear plexiglass because I can't really test a projector, bu
 ![how it works](2023-10-31/Screenshot%202023-11-01%20at%2016.10.59.png)
 
 
-
+<br/><br/>
 
 *2023-11-01*
 ## Testing the prototype
@@ -158,6 +166,7 @@ but it's good and works great, think of other forms, story telling? could it be 
 Get an A3 page of paper and draw a hundred different animation machines !
 (to iterate and find unlikely forms and systems)
 
+<br/>
 
 *2023-11-03*
 ## Pitch and key insights
@@ -171,23 +180,24 @@ This project is to build a user-friendly tool that simplifies analogue animation
 
 ### key insights
 I've tried to engage in as many discussions as possible about this subject with anyone I've recently met.
-- People who have tried animation had fun drawing in that context, even if they don't normally draw.
-- Any drawings can result in interesting movements, but most people feel the drawings need to be "good," making animation seem inaccessible.
-- Even those who are comfortable with drawing still consider analogue animation inaccessible due to the steps, complications, and time it involves. (iPad animation apps alleviate this, but not everyone enjoys digital drawing, and we don't all have an iPad.)
-- Professional animators are also interested in finding processes that can yield different and interesting results, and any reduction in friction is welcome in any process.
-- Traditional animation courses typically begin with a simple ball bouncing, which is a good way to explain how animation works in a simple, accessible manner, helping people get started.
-- I've encountered frustration when trying to convey to people that drawings don't need to look good and that it's possible to draw without worrying about how it looks. But how can I convey that with my project? How can I help people let go of perfectionism?
-- Children can naturally do this, but it becomes harder as we age, affecting everyone, both regular people and experienced illustrators alike.
-- Sometimes when I show examples of "bad" drawings that are fun, it helps.
-- In my studies of illustration and comics, I've encountered multiple ways in which drawing exercises are used to loosen up and help with letting go of perfectionism. These exercises include drawing with closed eyes, using the non-dominant hand, or applying constraints like designers do to enhance creativity. Constraints mean we can't achieve perfection, so we don't demand good results from ourselves, and we're not paralyzed by expectations. This unleashes creativity.
-- I've also attempted to study procrastination, and the desire to excel seems to paralyze people to the point where they can't even try at all.
-- Another thing that will paralyze anyone is feeling like we're not allowed to fail. In one of my experiments, non-illustrators felt that it was easier to draw on toilet paper (which is difficult to work with) than on normal paper because they felt that it was okay to fail on something that is destined to be thrown away. They have a hard time allowing themselves to waste paper.
-- It is most difficult to allow ourselves to fail or waste resources, like paper or nice pens and art tools such as Caran d'Ache products.
-- To be creative, one must be allowed to fail, destroy, and waste resources.
-- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when drawing on paper rolls.
-- The final project needs to be more than just a tool.
+- People who have tried animation had fun drawing in that context, even if they don't normally draw.<br/><br/>
+- Any drawings can result in interesting movements, but most people feel the drawings need to be "good," making animation seem inaccessible.<br/><br/>
+- Even those who are comfortable with drawing still consider analogue animation inaccessible due to the steps, complications, and time it involves. (iPad animation apps alleviate this, but not everyone enjoys digital drawing, and we don't all have an iPad.)<br/><br/>
+- Professional animators are also interested in finding processes that can yield different and interesting results, and any reduction in friction is welcome in any process.<br/><br/>
+- Traditional animation courses typically begin with a simple ball bouncing, which is a good way to explain how animation works in a simple, accessible manner, helping people get started.<br/><br/>
+- I've encountered frustration when trying to convey to people that drawings don't need to look good and that it's possible to draw without worrying about how it looks. But how can I convey that with my project? How can I help people let go of perfectionism?<br/><br/>
+- Children can naturally do this, but it becomes harder as we age, affecting everyone, both regular people and experienced illustrators alike.<br/><br/>
+- Sometimes when I show examples of "bad" drawings that are fun, it helps.<br/><br/>
+- In my studies of illustration and comics, I've encountered multiple ways in which drawing exercises are used to loosen up and help with letting go of perfectionism. These exercises include drawing with closed eyes, using the non-dominant hand, or applying constraints like designers do to enhance creativity. Constraints mean we can't achieve perfection, so we don't demand good results from ourselves, and we're not paralyzed by expectations. This unleashes creativity.<br/><br/>
+- I've also attempted to study procrastination, and the desire to excel seems to paralyze people to the point where they can't even try at all.<br/><br/>
+- Another thing that will paralyze anyone is feeling like we're not allowed to fail. In one of my experiments, non-illustrators felt that it was easier to draw on toilet paper (which is difficult to work with) than on normal paper because they felt that it was okay to fail on something that is destined to be thrown away. They have a hard time allowing themselves to waste paper.<br/><br/>
+- It is most difficult to allow ourselves to fail or waste resources, like paper or nice pens and art tools such as Caran d'Ache products.<br/><br/>
+- To be creative, one must be allowed to fail, destroy, and waste resources.<br/><br/>
+- In animation, you HAVE to waste paper, so maybe that's why some people manage to draw more freely when drawing on paper rolls.<br/><br/>
+- The final project needs to be more than just a tool. <br/><br/>
 - For optimal use, one hand should have access to "next frame" button while the other hand is drawing.
 
+<br/>
 
 *2023-11-13*
 ## Prototype 2
@@ -201,6 +211,7 @@ Jokes aside, I enjoyed building this, and I love the form and design. However, i
 ![demo](2023-11-13/IMG_1012.jpg)
 
 
+<br/>
 
 *2023-11-14*
 ## Sketching and prototype number 3
