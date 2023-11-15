@@ -257,3 +257,7 @@ I would like the screen to feature a button for inspiration, if someone doesn't 
 
 ![button](2023-11-14/button.png)
 ![prompts](2023-11-14/prompts.png)
+
+As well as some naive art insperation to loosen up when drawing
+![button2](2023-11-14/button2.png)
+![naive-art](2023-11-14/kids-drawings.jpg)
