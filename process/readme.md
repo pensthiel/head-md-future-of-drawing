@@ -250,3 +250,10 @@ But i'm not sure. I'm wondering if this is too much and maybe it was better as a
 At least the projector part works, mine had to be placed far from the canvas but i've been told that some projectors are designed for shorter ranges.
 
 I used my phone here but i would like it to have its own device that does camera + driving algorithm for the wheels + streaming to projector + screen for buttons and anomation preview ?
+
+### Idea generator ?
+
+I would like the screen to feature a button for inspiration, if someone doesn't know what story to draw...
+
+![button](2023-11-14/button.png)
+![prompts](2023-11-14/prompts.png)
