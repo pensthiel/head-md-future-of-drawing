@@ -2,12 +2,12 @@
 
 Shortcuts:
 
-1. [2023-10-30](######2023-10-30) Research 1
-2. [2023-10-31](######2023-10-31) Prototype 1
-3. [2023-11-01](######2023-11-01) Testing 1
-4. [2023-11-03](######2023-11-03) Pitch and key insights
-5. [2023-11-13](######2023-11-13) Prototype 2 (fail)
-6. [2023-11-14](######2023-11-14) Sketching and prototype number 3
+1. [2023-10-30](#2023-10-30) Research 1
+2. [2023-10-31](#2023-10-31) Prototype 1
+3. [2023-11-01](#2023-11-01) Testing 1
+4. [2023-11-03](#2023-11-03) Pitch and key insights
+5. [2023-11-13](#2023-11-13) Prototype 2 (fail)
+6. [2023-11-14](#2023-11-14) Sketching and prototype number 3
 
 <br/><br/>
 
