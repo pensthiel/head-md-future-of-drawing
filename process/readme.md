@@ -1,26 +1,24 @@
 # Process
 
 Shortcuts:
-- [2023-10-30](*2023-10-30*) Research 1
-- [2023-10-31](*2023-10-31*) Prototype 1
-- [2023-11-01](*2023-11-01*) Testing 1
-- [2023-11-03](*2023-11-03*) Pitch and key insights
-- [2023-11-13](*2023-11-13*) Prototype 2 (fail)
-- [2023-11-14](*2023-11-14*) Sketching and prototype number 3
+
+1. [2023-10-30](######*2023-10-30*) Research 1
+2. [2023-10-31](######*2023-10-31*) Prototype 1
+3. [2023-11-01](######*2023-11-01*) Testing 1
+4. [2023-11-03](######*2023-11-03*) Pitch and key insights
+5. [2023-11-13](######*2023-11-13*) Prototype 2 (fail)
+6. [2023-11-14](######*2023-11-14*) Sketching and prototype number 3
 
 <br/><br/>
 
 
-*2023-10-16*
-to 
-*2023-10-26*
-
-Refere to the files on the process folder to view what was made before creating the git.
+###### For *2023-10-16* until *2023-10-26*:
+Refer to the files on the process folder to view what was made before creating the git.
 
 
 <br/><br/>
 
-*2023-10-30*
+###### *2023-10-30*
 ## Animation machine idea
 
 
@@ -80,7 +78,7 @@ ipad-like silly animations but with ~ sensory pleasur ~ and *texture* and ALL TH
 
 <br/><br/>
 
-*2023-10-31*
+###### *2023-10-31*
 ## Creation of the git, and building a cardboard prototype
 we had a quick presentation of our process with the classe and then I started building my first animation machine prototype to test the idea of the rolling paper...
 
@@ -95,7 +93,7 @@ I've put a piece of clear plexiglass because I can't really test a projector, bu
 
 <br/><br/>
 
-*2023-11-01*
+###### *2023-11-01*
 ## Testing the prototype
 
 
@@ -168,7 +166,7 @@ Get an A3 page of paper and draw a hundred different animation machines !
 
 <br/>
 
-*2023-11-03*
+###### *2023-11-03*
 ## Pitch and key insights
 
 ### Project description
@@ -199,7 +197,7 @@ I've tried to engage in as many discussions as possible about this subject with 
 
 <br/>
 
-*2023-11-13*
+###### *2023-11-13*
 ## Prototype 2
 The tale of a failed experiment ._.
 
@@ -213,25 +211,26 @@ Jokes aside, I enjoyed building this, and I love the form and design. However, i
 
 <br/>
 
-*2023-11-14*
+###### *2023-11-14*
 ## Sketching and prototype number 3
 Idea drawings
 
 Projector on paper roll iterations
 ![projector on paper roll drawings](2023-11-14/IMG_1016.jpg)
 
-I then realised that instead of the paper rolling, the device could be moving on a large area of paper so that there is both an animation output and an analogue cooperative artwork output.
-Then the project becoms a mix of 2 different things, animation and cooperative doodling...
+I then realized that instead of the paper roll turning, the device could be moving on a large area of paper so that there is both an animation output and an analog cooperative artwork output.
+Then the project becomes a mix of 2 different things, animation and cooperative doodling...
 
-The thought is that for an exhibition context it would be more interesting and entertaining for the drawings to output to something phisical as well as digital.
+The thought is that for an exhibition context, it would be more interesting and entertaining for the drawings to output to something physical as well as digital.
 
 
 Form and movement iterations
 ![form and movement drawings](2023-11-14/drawings.jpg)
 
-A rail mechanisme like on drawing machines would work, but having an RC car type of device driving around would be infinitely more entertaining. Of course it would be automatic, ai driven.
 
-Phyisical test with a projector
+A rail mechanism like on drawing machines would work, but having an RC car type of device driving around would be infinitely more entertaining. Of course, it would be automatic, AI-driven.
+
+Physical test with a projector
 ![projector testing](2023-11-14/IMG_9946.jpg)
 ![projector testing](2023-11-14/IMG_9947.jpg)
 
@@ -243,26 +242,26 @@ What the output could look like after many users used the device on the same can
 The canvas would be big like 1m x 1m on a table.
 
 But perhaps it would make more sense on the floor? Then it could be even bigger...
-But i'm not sure. I'm wondering if this is too much and maybe it was better as a simple tool.
+But I'm not sure. I'm wondering if this is too much and maybe it was better as a simple tool.
 
 ![projector testing](2023-11-14/doodle-boy-decorates-restaurant-joe-whale-12-5dbfd6e6f2c41__700.jpg)
 
-At least the projector part works, mine had to be placed far from the canvas but i've been told that some projectors are designed for shorter ranges.
+At least the projector part works, mine had to be placed far from the canvas but I've been told that some projectors are designed for shorter ranges.
 
-I used my phone here but i would like it to have its own device that does camera + driving algorithm for the wheels + streaming to projector + screen for buttons and anomation preview ?
+I used my phone here but I would like it to have its own device that does camera + driving algorithm for the wheels + streaming to projector + screen for buttons and animation preview?
 
-### Idea generator ?
+### Idea generator?
 
-I would like the screen to feature a button for inspiration, if someone doesn't know what story to draw...
+I would like the screen to feature a button for inspiration if someone doesn't know what story to draw...
 
 ![button](2023-11-14/button.png)
 ![prompts](2023-11-14/prompts.png)
 
-As well as some naive art insperation to loosen up when drawing
+As well as some naive art inspiration to loosen up when drawing
 ![button2](2023-11-14/button2.png)
 ![naive-art](2023-11-14/kids-drawings.jpg)
 
-The text generator would be random words while the image output would be examples of kids drawings or simple flipbook animations.
+The text generator would be random words while the image output would be examples of kids' drawings or simple flipbook animations.
 
 ![anim-example](2023-11-14/flipbook/anim3.gif)
 ![anim-example2](2023-11-14/flipbook/anim6.gif)
