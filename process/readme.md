@@ -2,23 +2,23 @@
 
 Shortcuts:
 
-1. [2023-10-30](######*2023-10-30*) Research 1
-2. [2023-10-31](######*2023-10-31*) Prototype 1
-3. [2023-11-01](######*2023-11-01*) Testing 1
-4. [2023-11-03](######*2023-11-03*) Pitch and key insights
-5. [2023-11-13](######*2023-11-13*) Prototype 2 (fail)
-6. [2023-11-14](######*2023-11-14*) Sketching and prototype number 3
+1. [2023-10-30](######2023-10-30) Research 1
+2. [2023-10-31](######2023-10-31) Prototype 1
+3. [2023-11-01](######2023-11-01) Testing 1
+4. [2023-11-03](######2023-11-03) Pitch and key insights
+5. [2023-11-13](######2023-11-13) Prototype 2 (fail)
+6. [2023-11-14](######2023-11-14) Sketching and prototype number 3
 
 <br/><br/>
 
 
-###### For *2023-10-16* until *2023-10-26*:
+###### For 2023-10-16 until 2023-10-26:
 Refer to the files on the process folder to view what was made before creating the git.
 
 
 <br/><br/>
 
-###### *2023-10-30*
+###### 2023-10-30
 ## Animation machine idea
 
 
@@ -61,8 +61,7 @@ Things that the device could be doing:
 ### Paper size
 
 Should probably be a small drawing area, as small drawings are quicker, less focused on details and its easier to loosen up..
-small is trasportable
-small you can leave on a desk and use anytime
+small is transportable small you can leave on a desk and use anytime.
 
 
 ### Goal ?
@@ -78,7 +77,7 @@ ipad-like silly animations but with ~ sensory pleasur ~ and *texture* and ALL TH
 
 <br/><br/>
 
-###### *2023-10-31*
+###### 2023-10-31
 ## Creation of the git, and building a cardboard prototype
 we had a quick presentation of our process with the classe and then I started building my first animation machine prototype to test the idea of the rolling paper...
 
@@ -93,7 +92,7 @@ I've put a piece of clear plexiglass because I can't really test a projector, bu
 
 <br/><br/>
 
-###### *2023-11-01*
+###### 2023-11-01
 ## Testing the prototype
 
 
@@ -166,7 +165,7 @@ Get an A3 page of paper and draw a hundred different animation machines !
 
 <br/>
 
-###### *2023-11-03*
+###### 2023-11-03
 ## Pitch and key insights
 
 ### Project description
@@ -197,7 +196,7 @@ I've tried to engage in as many discussions as possible about this subject with 
 
 <br/>
 
-###### *2023-11-13*
+###### 2023-11-13
 ## Prototype 2
 The tale of a failed experiment ._.
 
@@ -211,7 +210,7 @@ Jokes aside, I enjoyed building this, and I love the form and design. However, i
 
 <br/>
 
-###### *2023-11-14*
+###### 2023-11-14
 ## Sketching and prototype number 3
 Idea drawings
 
