@@ -96,14 +96,16 @@ I've put a piece of clear plexiglass because I can't really test a projector, bu
 ## Testing the prototype
 
 
-### Person 1 (doesn't draw)
+### Person 1 
+(doesn't draw)
 
 She said it reminds her of the animation app on nintendo DS, which was very simple, didn't have many options and was low stakes.
 The toilet paper helped to lower the stakes even more so it was easy for her to relax and draw without pressure.
 She really enjoyed it even if she does not normally draw.
 
 
-### Person 2 (illustrator)
+### Person 2 
+(illustrator)
 
 he was excited by the device and loved using it, said he wanted to continue and not stop.
 described that he would not normally do animation and that he had no idea that it could be done this way, the process made it a lot more accesible. 
@@ -118,7 +120,8 @@ having just to push 1 button to go to next frame makes the process super quick a
 said that normally the process for traditional animation is intimidating because you need like a camera or scanner and transparent paper or holes to align the paper but with this machine it felt effortless.
 
 
-### Person 3 (illustrator)
+### Person 3 
+(illustrator)
 
 - Had trouble understanding what needed to be done at first ( maybe i should have an illustrated tutorial somewhere ).
 - Panicked a bit when she drew on the table.
@@ -265,3 +268,25 @@ The text generator would be random words while the image output would be example
 ![anim-example](2023-11-14/flipbook/anim3.gif)
 ![anim-example2](2023-11-14/flipbook/anim6.gif)
 ![anim-example3](2023-11-14/flipbook/anim8.gif)
+
+<br/>
+
+###### 2023-12-04
+## Planning the electronics
+
+![notebook](2023-12-04/IMG_1206.jpg)
+
+I'm trying to find out what I'll need to build the final prototype for the presentation.
+
+- Raspberry PI
+- a projector I can dismantle (got one already)
+- 2 buttons (included in the arduino kit)
+- USB camera ( I have one but i'm missing the cable)
+- power bank (I have one)
+- 3d printed wheels and turning mechanism?
+- switch to turn on or off the whole thing
+- motors for the wheels ? 
+
+The first thing will be the camera/projector part.
+I can move the object on wheels by hand for the presentation,
+coding motors can come later.
