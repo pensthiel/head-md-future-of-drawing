@@ -8,12 +8,14 @@ Shortcuts:
 4. [2023-11-03](#2023-11-03) Pitch and key insights
 5. [2023-11-13](#2023-11-13) Prototype 2 (fail)
 6. [2023-11-14](#2023-11-14) Sketching and prototype number 3
+7. [2023-12-04](#2023-12-04) Planning the electronics
+8. [2023-12-05](#2023-12-05) Planning the form
 
 <br/><br/>
 
 
 ###### For 2023-10-16 until 2023-10-26:
-Refer to the files on the process folder to view what was made before creating the git.
+Refer to the files in the process folder to view what was made before creating the git.
 
 
 <br/><br/>
@@ -23,30 +25,30 @@ Refer to the files on the process folder to view what was made before creating t
 
 
 ### Interview
-On my first interview test, my questions weren't very good but I had an insightful discussion with someone who said they don't draw much but they used to draw to make little animations, and that drawing is exciting because of the posibilities and all the things you can come up with and create.
+On my first interview test, my questions weren't very good but I had an insightful discussion with someone who said they don't draw much but they used to draw to make little animations, and that drawing is exciting because of the possibilities and all the things you can come up with and create.
 
 
 ### On the topic of animation
-Following this discussion, I remembered that I was doing silly little animations too. I then dig up an old collections of little animations I had made in that quick, low expectation and high spontaneousity and intuition flow. I realised that for me this is when drawing feels the best, when you convey a story without worring about how you draw, when it happens quick enough that you can almost create the scene in your head in real time, where it doesn't matten if it's stick figures. When it moves it comes alive.
+Following this discussion, I remembered that I was doing silly little animations too. I then dig up an old collection of little animations I had made in that quick, low expectation high spontaneousity and intuition flow. I realized that for me this is when drawing feels the best when you convey a story without worrying about how you draw when it happens quickly enough that you can almost create the scene in your head in real time, where it doesn't matter if it's stick figures. When it moves it comes alive.
 
 
 ### Ipad animation apps
 
-In an app like "animatic" on the ipad, whereyou have a stylus to draw and the app is bare bone with very little options, it's very easy to be loose and spontaneous if your drawings, since theres a lot of frames to do you want to be very quick and since it goes by fast there is no use in focusing on the details. the less you focus on doing it "well", the more expressive and fun the result will be.
-The app is easy to use, you have the most basic and nessesary tools for hand drawn animation:
+In an app like "animatic" on the iPad, where you have a stylus to draw and the app is bare bone with very few options, it's very easy to be loose and spontaneous in your drawings, since there are lots of frames to do you want to be very quick and since it goes by fast there is no use in focusing on the details. the less you focus on doing it "well", the more expressive and fun the result will be.
+The app is easy to use, and you have the most basic and necessary tools for hand-drawn animation:
 Onion skin, new frame and export video.
 
-![Animations I've done on the ipad](2023-10-30-ideas+text/Tiny_animations_for_instagram_(_2018_-_2019_).mp4)
+![Animations I've done on the iPad](2023-10-30-ideas+text/Tiny_animations_for_instagram_(_2018_-_2019_).mp4)
 
 ### Resulting path I might go on
 
-I absolutely love those ipad apps but when drawing on a tablet i loose all the sensory joy of traditional drawing tools such as the Caren d'ache products. My thought was that If i could make an app or tool that can provide tools such as Onion skin and "next frame" but phisically to use with traditional tool, I could make hand drawn or paint animation as accessible and as easy as when I use those ipad apps, we could make works as expressive as my digital exaples but with the feeling of physical tools and with the beauty, colours and textures of Caren d'ache tools.
+I absolutely love those iPad apps but when drawing on a tablet I lose all the sensory joy of traditional drawing tools such as the Caren d'ache products. My thought was that If I could make an app or tool that can provide tools such as Onion skin and "next frame" but physically to use with traditional tools, I could make hand-drawn or painted animation as accessible and as easy as when I use those iPad apps, we could make works as expressive as my digital examples but with the feeling of physical tools and with the beauty, colors and textures of Caren d'ache tools.
 
 <br/>
 
 ### thoughts about the process
 
-How could I redirect field researche that way?
+How could I redirect field research that way?
 - rewrite interview questions
 - make animation cadavre exquis with classmates and take notes
 - prototype the paper roll mechanisme of my drawing
@@ -61,13 +63,13 @@ Things that the device could be doing:
 ### Paper size
 
 Should probably be a small drawing area, as small drawings are quicker, less focused on details and its easier to loosen up..
-small is transportable small you can leave on a desk and use anytime.
+small is transportable small you can leave on a desk and use it anytime.
 
 
 ### Goal ?
 
-Remove all friction in the traditional animation workflow to make it more *accesible*, quicker, less scary easier to experient animating with all kind of tools.
-ipad-like silly animations but with ~ sensory pleasur ~ and *texture* and ALL THE TOOLS.
+Remove all friction in the traditional animation workflow to make it more *accessible*, quicker, less scary easier to experient animating with all kinds of tools.
+ipad-like silly animations but with ~ sensory pleasure ~ and *texture* and ALL THE TOOLS.
 
 ### Sketch
 ![Drawing of my initial machine idea](2023-10-30-ideas+text/Animation%20machine.png)
@@ -99,7 +101,7 @@ I've put a piece of clear plexiglass because I can't really test a projector, bu
 ### Person 1 
 (doesn't draw)
 
-She said it reminds her of the animation app on nintendo DS, which was very simple, didn't have many options and was low stakes.
+She said it reminds her of the animation app on Nintendo DS, which was very simple, didn't have many options and was low stakes.
 The toilet paper helped to lower the stakes even more so it was easy for her to relax and draw without pressure.
 She really enjoyed it even if she does not normally draw.
 
@@ -107,39 +109,38 @@ She really enjoyed it even if she does not normally draw.
 ### Person 2 
 (illustrator)
 
-he was excited by the device and loved using it, said he wanted to continue and not stop.
-described that he would not normally do animation and that he had no idea that it could be done this way, the process made it a lot more accesible. 
+he was excited by the device and loved using it,  he wanted to continue and not stop.
+described that he would not normally do animation and that he had no idea that it could be done this way, the process made it a lot more accessible. 
 Toilet paper was not ideal as it tears so it's hard to draw on
-- Bigger screen would help
+- A bigger screen would help
 - The size is good
 Loved the idea of using other mediums like ink.
 Made him want to do a lot more animations.
-having just to push 1 button to go to next frame makes the process super quick and it makes you want to do more.
-- wanted an accessible button like you could just draw with one hand, click with the other, draw again, ect...
-(note: he is left handed, the button would need to be movable ?)
-said that normally the process for traditional animation is intimidating because you need like a camera or scanner and transparent paper or holes to align the paper but with this machine it felt effortless.
+having just to push 1 button to go to the next frame makes the process super quick and it makes you want to do more.
+- wanted an accessible button like you could just draw with one hand, click with the other, draw again, etc... (note: he is left-handed, so the button would need to be movable ?)
+said that normally the process for traditional animation is intimidating because you need like a camera or scanner and transparent paper or holes to align the paper but with this machine, it felt effortless.
 
 
 ### Person 3 
 (illustrator)
 
-- Had trouble understanding what needed to be done at first ( maybe i should have an illustrated tutorial somewhere ).
+- Had trouble understanding what needed to be done at first ( maybe I should have an illustrated tutorial somewhere ).
 - Panicked a bit when she drew on the table.
 - She did say "This machine is incredible!".
-Drawing on toilet paper is tidious. 
-- She had never animated with traditional drawing tools and she had fun, said it's better than on the tablet. 
+Drawing on toilet paper is tedious. 
+- She had never animated with traditional drawing tools and she had fun, and said it's better than on the tablet. 
 
 
 ![cadavre exquis they all made](2023-10-31/IMG_0872.gif)
 
 
 ### Takeaways
-- needs better paper ( im looking for some ticket machine rolls)
+- needs better paper (I'm looking for some ticket machine rolls)
 - people had fun
 - makes traditional animation accessible and makes it a lot less intimidating
-- button with haptic ?
-- only 2 step, draw and press button. simplicity=good
-- paper roll feels a lot less scary than a white page, makes it easier to start without fearing of messing up, also because the last drawing dissapears in the roll.
+button with haptic?
+only 2 steps, draw and press the button. simplicity=good
+the paper roll feels a lot less scary than a white page, makes it easier to start without fearing of messing up, also because the last drawing disappears in the roll.
 - small size makes it quicker
 - makes people want to animate, and aniimate more
 - we just continued the animation after each person so it made a collaborative cadavre exquis
@@ -148,18 +149,18 @@ Drawing on toilet paper is tidious.
 
 
 ### Final notes of the day
-- if i makes it with the same system as the iphone app i could have a bigger screen.
+- if I make it with the same system as the iPhone app I could have a bigger screen.
 - the object right now is small enough to be portable or to be kept on my desk.
 - having a light would make the pictures more homogenous and the camera gives better quality if the lighting is good but it would need to be an area light or ring light and not a spotlight.
-- I thought it might be too small to draw comfortably but actually since we only draw with one hand and the other hand would be with the button externally this size is good and those who tried likes the size.
-- height seems good too, too hight you wouldnt see the screen and too low you would not be able to use taller paintbruches....
+- I thought it might be too small to draw comfortably but actually, since we only draw with one hand and the other hand would be with the button externally this size is good and those who tried like the size.
+- height seems good too, too high you wouldn't see the screen and too low you would not be able to use taller paintbrushes....
 - you canot be super precise but i think that's a good thing because the animation style is more expressive that way
 
 USE " analogue " INSTEAD OF " traditional ".
 
 ### Teachers comments
 Should be more than just a tool.
-but it's good and works great, think of other forms, story telling? could it be a teacher? coach? tutorial but in a creative way? does the roll tell a story? (I would rather the roll stays blank)
+but it's good and works great, think of other forms, of storytelling? could it be a teacher? coach? tutorial but in a creative way? does the roll tell a story? (I would rather the roll stays blank)
 
 
 ### NEXT STEP
@@ -172,7 +173,7 @@ Get an A3 page of paper and draw a hundred different animation machines !
 ## Pitch and key insights
 
 ### Project description
-I'm on a mission to make analogue animation more accessible and enjoyable for everyone, from hobbyists and indie filmmakers to kids. Animation, for me, is the ultimate worry-free way to bring creativity to life. Inspired by user-friendly iPad animation apps, my project aims to bring the simplicity and fun of digital animation to the tangible world. By creating a device that simplifies the animation process, I hope to eliminate the traditional complexities, making it quick and enjoyable. This project is dedicated to utilizing Caran d'Ache tools, providing a wide range of textures and creative possibilities that traditional animation offers.
+I'm on a mission to make analog animation more accessible and enjoyable for everyone, from hobbyists and indie filmmakers to kids. Animation, for me, is the ultimate worry-free way to bring creativity to life. Inspired by user-friendly iPad animation apps, my project aims to bring the simplicity and fun of digital animation to the tangible world. By creating a device that simplifies the animation process, I hope to eliminate the traditional complexities, making it quick and enjoyable. This project is dedicated to utilizing Caran d'Ache tools, providing a wide range of textures and creative possibilities that traditional animation offers.
 
 ### PITCH
 This project is to build a user-friendly tool that simplifies analogue animation. Inspired by easy-to-use iPad animation apps, I am trying to bring that simplicity to analogue animation. Making animation accessible, quick, and fun for everyone, with the tactile joy of hand-drawn art. The object is dedicated to giving a fun project to do, providing a worry-free way to use the Caran d'Ache tools for minimal friction and maximal accessibility and creativity.
@@ -182,7 +183,7 @@ This project is to build a user-friendly tool that simplifies analogue animation
 I've tried to engage in as many discussions as possible about this subject with anyone I've recently met.
 - People who have tried animation had fun drawing in that context, even if they don't normally draw.<br/><br/>
 - Any drawings can result in interesting movements, but most people feel the drawings need to be "good," making animation seem inaccessible.<br/><br/>
-- Even those who are comfortable with drawing still consider analogue animation inaccessible due to the steps, complications, and time it involves. (iPad animation apps alleviate this, but not everyone enjoys digital drawing, and we don't all have an iPad.)<br/><br/>
+- Even those who are comfortable with drawing still consider analog animation inaccessible due to the steps, complications, and time it involves. (iPad animation apps alleviate this, but not everyone enjoys digital drawing, and we don't all have an iPad.)<br/><br/>
 - Professional animators are also interested in finding processes that can yield different and interesting results, and any reduction in friction is welcome in any process.<br/><br/>
 - Traditional animation courses typically begin with a simple ball bouncing, which is a good way to explain how animation works in a simple, accessible manner, helping people get started.<br/><br/>
 - I've encountered frustration when trying to convey to people that drawings don't need to look good and that it's possible to draw without worrying about how it looks. But how can I convey that with my project? How can I help people let go of perfectionism?<br/><br/>
@@ -280,13 +281,22 @@ I'm trying to find out what I'll need to build the final prototype for the prese
 
 - Raspberry PI
 - a projector I can dismantle (got one already)
-- 2 buttons (included in the arduino kit)
-- USB camera ( I have one but i'm missing the cable)
+- 2 buttons (included in the Arduino kit)
+- USB camera ( I have one but I'm missing the cable)
 - power bank (I have one)
 - 3d printed wheels and turning mechanism?
 - switch to turn on or off the whole thing
-- motors for the wheels ? 
+- motors for the wheels? 
 
 The first thing will be the camera/projector part.
 I can move the object on wheels by hand for the presentation,
 coding motors can come later.
+
+<br/>
+
+###### 2023-12-05
+## Planning the form
+
+I guess I should rather continue in the "object" folder.
+
+--> [Link](../object/readme.md) <--
