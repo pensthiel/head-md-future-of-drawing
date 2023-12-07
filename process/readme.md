@@ -10,6 +10,7 @@ Shortcuts:
 6. [2023-11-14](#2023-11-14) Sketching and prototype number 3
 7. [2023-12-04](#2023-12-04) Planning the electronics
 8. [2023-12-05](#2023-12-05) Planning the form
+9. [2023-12-07](#2023-12-07) ORGANIZATION
 
 <br/><br/>
 
@@ -300,3 +301,69 @@ coding motors can come later.
 I guess I should rather continue in the "object" folder.
 
 --> [Link](../object/readme.md) <--
+
+<br/>
+
+###### 2023-12-06
+## Projector test
+
+![test1](2023-12-06/IMG_1222.JPG)
+
+So I moved the lense to get a sharp image on the paper.
+That worked but there are 2 things to note:
+
+1. The image was too small so I'll have to place the projector higher, about 30 cm from the paper ( it was 20 cm away here )
+
+2. It does not boot automatically so I'll need to find a way to trigger the booting when I power on the PI.
+
+![proj-image](2023-12-06/IMG_1221.JPG)
+
+
+<br/>
+
+###### 2023-12-07
+## STEPS
+
+1. Electronics / Connect all
+    - camera input and projector output on pi
+
+2. Coding / Make the program
+    - launch at wake on the pi and connect to camera and HDMI projector.
+    - it should, on a button press, display a white screen, take a picture and then display the picture fullscreen, until the next time the button is pressed.
+    - plays film of all the frames at 6 or 12 fps when we press preview.
+    - will need to control the motors if we have time. step motor and servo motor.
+
+3. Design / decide on the form
+    - find a good form
+    - fusion 360 final design
+
+4. Details / figure out the buttons and all that
+    - on/off for PI and projector?
+    - next frame button
+    - preview button
+
+5. Build / put it all together
+    - cut wood
+    - build metal? solder ?
+    - assemble / screw / glue
+
+
+#### Inputs
+- camera
+- button on/off
+- button next frame
+- button preview
+
+#### Outputs
+- projector
+- step motor
+- servo motor
+
+
+#### Things I have yet to figure out
+- how do I turn on the projector and PI at the same time?
+- what materials for the form
+- where do the buttons go (most comfortable and accessible place)
+- how do I build the wheels
+- turning mechanism
+- should I cut the cables to make them shorter?

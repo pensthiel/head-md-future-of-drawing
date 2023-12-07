@@ -27,3 +27,9 @@ This box was 20 x 10 x 12 cm and it was 20 cm above the paper, so an appropriate
 I had set the width to be above 30 cm so that it could fit the length of an A4 sheet. Just as a first try.
 
 30cm was long enough because we didn't need to fit both hands under. Smaller could work but it might be uncomfortable to draw. Larger would be more comfortable but too bulky I'm afraid.
+
+###### 2023-12-06
+## form research in Fusion 360
+
+Here's some experiments
+![test1](360-tests/1.png) ![test2](360-tests/2.png) ![test3](360-tests/3.png) ![test4](360-tests/4.png) ![test5](360-tests/5.png)
