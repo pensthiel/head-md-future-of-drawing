@@ -316,7 +316,6 @@ That worked but there are 2 things to note:
 
 2. It does not boot automatically so I'll need to find a way to trigger the booting when I power on the PI.
 
-![proj-image](2023-12-06/IMG_1221.JPG)
 
 
 <br/>
