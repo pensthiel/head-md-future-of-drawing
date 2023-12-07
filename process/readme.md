@@ -305,7 +305,7 @@ I guess I should rather continue in the "object" folder.
 <br/>
 
 ###### 2023-12-06
-## Projector test
+## Projector test and wheel turning mechanism
 
 ![test1](2023-12-06/IMG_1222.JPG)
 
@@ -316,15 +316,34 @@ That worked but there are 2 things to note:
 
 2. It does not boot automatically so I'll need to find a way to trigger the booting when I power on the PI.
 
+I also came up with an idea to turn the wheels with the servo motor, idk if it would work.
 
+![turning-mechanism](2023-12-06/IMG_1223.JPG)
 
 <br/>
 
 ###### 2023-12-07
-## STEPS
+## ORGANISATION / STEPS
 
-1. Electronics / Connect all
-    - camera input and projector output on pi
+1. Electronics / components and cables
+    - PI
+    - camera
+    - projector
+    - buttons
+    - motors
+
+    CABLES
+    - power -> PI
+    - power -> Projector
+    - camera -> PI
+    - PI -> Projector
+    - buttons -> PI
+    - switch on/off -> PI and Projector
+    - step motor -> PI
+    - servo motor -> PI
+    
+
+
 
 2. Coding / Make the program
     - launch at wake on the pi and connect to camera and HDMI projector.
@@ -357,6 +376,13 @@ That worked but there are 2 things to note:
 - projector
 - step motor
 - servo motor
+
+#### size
+Approx. 40x40x20 cm for the whole thing
+
+#### Power
+10'000 mah usb power bank powering the pi and the projector.
+(both can work on 5 volt usb)
 
 
 #### Things I have yet to figure out
