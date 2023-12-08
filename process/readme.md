@@ -327,36 +327,37 @@ I also came up with an idea to turn the wheels with the servo motor, idk if it w
 
 1. Electronics / components and cables
     - PI
-    - camera
-    - projector
-    - buttons
-    - motors
+        - camera
+        - projector
+        - buttons
+        - motors
 
     CABLES
     - power -> PI
     - power -> Projector
-    - camera -> PI
+    - camera <-> PI
     - PI -> Projector
     - buttons -> PI
     - switch on/off -> PI and Projector
     - step motor -> PI
     - servo motor -> PI
-    
+
 
 
 
 2. Coding / Make the program
-    - launch at wake on the pi and connect to camera and HDMI projector.
+    
     - it should, on a button press, display a white screen, take a picture and then display the picture fullscreen, until the next time the button is pressed.
     - plays film of all the frames at 6 or 12 fps when we press preview.
     - will need to control the motors if we have time. step motor and servo motor.
+    - to do :needs to launch at wake on the pi and connect to camera and HDMI projector.
 
 3. Design / decide on the form
     - find a good form
     - fusion 360 final design
 
 4. Details / figure out the buttons and all that
-    - on/off for PI and projector?
+    - on/off for both PI and projector
     - next frame button
     - preview button
 
@@ -392,3 +393,8 @@ Approx. 40x40x20 cm for the whole thing
 - how do I build the wheels
 - turning mechanism
 - should I cut the cables to make them shorter?
+- holes !
+    - for ventilaion !
+    - to charge the battery !
+    - for buttons !
+

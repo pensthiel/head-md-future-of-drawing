@@ -18,3 +18,5 @@
 
 [**Object**](object) - [*log*](object/readme.md)
 - Thoughts, researche and referances on the final form of the device/object
+
+[**UI and Programming**](programming) - [*log*](programming/readme.md)
