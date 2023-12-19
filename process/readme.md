@@ -398,3 +398,44 @@ Approx. 40x40x20 cm for the whole thing
     - to charge the battery !
     - for buttons !
 
+<br/>
+
+###### 2023-12-12
+## Sounds and design
+
+I had an Idea!
+
+Since we have speakers, as feedback, when we press "next frame" or "preview", it could make a sound.
+
+I thought of styling the form to make it cute, but I wasn't sure if it was relevant...
+
+However, I thought about it more and actually it would make sense to make it like a cat or something, as a reference to big animation classics such as the Miyasaki ghibli movies, which are probably the biggest inspiration for most animators.
+
+So the sound feedback could be a cute miaou! and for the preview, the cat could be humming a song.
+
+Jonas said would be nice if the projector came out of the face but idk.
+
+<br/>
+
+###### 2023-12-13
+## Programming
+Refer to the prog readme :-)
+
+--> [Link](../programming/readme.md) <--
+
+<br/>
+
+###### 2023-12-14
+## Test day !
+
+![test day picture](2023-12-14/img_5234.jpg)
+
+I asked everyone about where to place the buttons and I had interesting insights:
+
+1. the sides are not ideal because some people are left-handed.
+2. the front is more visible and straightforward.
+3. it could be icons, no need to write words.
+4. doesn't need to be as accessible as I thought since the object moves anyway so the flow is interrupted in any case.
+5. if there are buttons on the front it might tilt the object so it might need to be touch-style buttons.
+
+
