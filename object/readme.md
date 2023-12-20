@@ -28,8 +28,36 @@ I had set the width to be above 30 cm so that it could fit the length of an A4 s
 
 30cm was long enough because we didn't need to fit both hands under. Smaller could work but it might be uncomfortable to draw. Larger would be more comfortable but too bulky I'm afraid.
 
+<br/>
+
 ###### 2023-12-06
 ## form research in Fusion 360
 
 Here's some experiments
-![test1](360-tests/1.png) ![test2](360-tests/2.png) ![test3](360-tests/3.png) ![test4](360-tests/4.png) ![test5](360-tests/5.png)
+![test1](360-tests/1.png) ![test3](360-tests/3.png) ![test4](360-tests/4.png) ![test5](360-tests/5.png) ![test6](360-tests/6.png)
+
+<br/>
+
+###### 2023-12-19
+## form research in Fusion 360
+
+![test7](360-tests/7.png) ![cat](360-tests/cat.png)
+
+<br/>
+
+###### 2023-12-20
+## Componants
+
+- Rasberry PI
+- battery
+- SD card
+- mini projector (projects onion skin and acts a display screen)
+- PI camera (missing zoom lenses)
+- button 1 - next frame (takes pic, moves, projects pic)
+- button 2 (plays a video of the saved frames)
+- switch on/off
+- wheels
+- step motor to move wheels
+- cervo motor to turn wheels
+- motor controller ?
+
