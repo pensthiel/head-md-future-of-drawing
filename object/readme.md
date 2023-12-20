@@ -60,4 +60,17 @@ Here's some experiments
 - step motor to move wheels
 - cervo motor to turn wheels
 - motor controller ?
+- LEDs if i do the little house design
 
+
+### Attempts at making the final form
+
+v1
+![v1](360-tests/82.png)
+v2
+![v2](360-tests/92.png)
+
+I think I prefer the house, however, I'm afraid the box is not deep enough and will need adjustments. maybe it should be longer too ?
+
+It would need to be made with wood.
+Which is warmer, cozier and smells good. I also want to add LEDs and blurry windows so that the house looks like it has lights in.
