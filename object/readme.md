@@ -70,7 +70,31 @@ v1
 v2
 ![v2](360-tests/92.png)
 
-I think I prefer the house, however, I'm afraid the box is not deep enough and will need adjustments. maybe it should be longer too ?
+This cat is too chonky, I think I prefer the house, however, I'm afraid the box is not deep enough and will need adjustments. maybe it should be longer too?
 
 It would need to be made with wood.
 Which is warmer, cozier and smells good. I also want to add LEDs and blurry windows so that the house looks like it has lights in.
+
+<br/>
+
+###### 2023-12-21
+## Form as it is right now
+
+![view1](360-tests/10.png)
+![view2](360-tests/11.png)
+![view3](360-tests/12.png)
+
+<br>
+
+###### 2024-01-08
+## Preparations for laser cutting
+
+I've added last-minute holes and stuff to make it work.
+
+![flat](export/Screenshot%202024-01-08%20at%2016.12.24.png)
+
+With the angles of the borders for later modifications.
+![seams](export/IMG_1514.JPG)
+![seams](export/IMG_1515.JPG)
+![seams](export/IMG_1516.JPG)
+![seams](export/IMG_1517.JPG)

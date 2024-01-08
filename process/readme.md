@@ -438,4 +438,13 @@ I asked everyone about where to place the buttons and I had interesting insights
 4. doesn't need to be as accessible as I thought since the object moves anyway so the flow is interrupted in any case.
 5. if there are buttons on the front it might tilt the object so it might need to be touch-style buttons.
 
+<br/>
 
+###### 2024-01-08
+## Happy new year!
+
+Today I've been preparing files for laser cutting (for tomorrow) and I did some Python coding.
+
+I realized we really don't have much time left so I need to focus on the most important steps for next Wednesday.
+
+There's also the PDF file to do as well as the documentation and handover files ! !!! !!
