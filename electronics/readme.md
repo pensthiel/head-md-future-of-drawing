@@ -94,3 +94,13 @@ GPIO 18 & GND
 
 ![](photos/GPIO-Pinout-Diagram-2.png)
 
+
+
+###### 2024-01-10
+
+## Fritzing
+
+![](fritzing/breadboard.png)![](fritzing/schematic.png)
+
+Needs to be verified by pierre
+
