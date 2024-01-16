@@ -1,4 +1,4 @@
-# Electronics
+# Electronic
 
 Shortcuts:
 
@@ -104,3 +104,26 @@ GPIO 18 & GND
 
 Needs to be verified by pierre
 
+
+<br>
+
+
+###### 2024-01-13
+
+## Final schematic
+
+Here's what we got :
+
+![](photos/final2.png)![](photos/final1.png)
+![](fritzing/Screenshot 2024-01-15 at 20.17.51.png>)
+
+
+<br>
+
+
+###### 2024-01-16
+
+## Object
+
+![photos](photos/img_1551.jpg)
+![photo2](photos/img_1548.jpg)

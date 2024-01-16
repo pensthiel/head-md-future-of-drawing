@@ -123,3 +123,14 @@ With the angles of the borders for later modifications.
 ![seams](export/IMG_1515.JPG)  
 ![seams](export/IMG_1516.JPG)  
 ![seams](export/IMG_1517.JPG)
+
+<br>
+
+
+###### 2024-01-16
+
+## Finished!
+
+![final](export/IMG_1557.JPG)
+![final](export/img_1580.jpg)
+![final](export/IMG_1564 copy.jpg)

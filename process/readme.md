@@ -448,3 +448,14 @@ Today I've been preparing files for laser cutting (for tomorrow) and I did some 
 I realized we really don't have much time left so I need to focus on the most important steps for next Wednesday.
 
 There's also the PDF file to do as well as the documentation and handover files ! !!! !!
+
+<br/>
+
+###### 2024-01-16
+## Last run
+
+We had to rush at the end but I'm pretty happy with my project.
+See the final presentation --> [PDF](../presentations/2024-01-final/Dossier 240117_HEAD-MD1_Caran-d-Ache_Thiel_Lauren_Home_Studio/240117_HEAD-MD1_Caran-d-Ache_Lauren-Thiel_Magic-house.pdf)
+
+Check out the code in Programming and the form in Object.
+Thank you for reading through!
