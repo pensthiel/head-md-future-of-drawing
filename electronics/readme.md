@@ -3,10 +3,16 @@
 Shortcuts:
 
 1. [2023-12-06](#2023-12-06) Setting up the Rasberry PI
+2. [2023-12-07](#2023-12-07) Soldering ex.
+3. [2023-12-21](#2023-12-21) controlling the projector
+4. [2024-01-09](#2024-01-09) To do
+5. [2024-01-10](#2024-01-10) Fritzing
+6. [2024-01-13](#2024-01-13) Final schematic
+7. [2024-01-16](#2024-01-16) Object
 
 <br/><br/>
 
-###### 2023-12-06
+###### 2023-12-07
 
 ## Setting up the Rasberry PI
 

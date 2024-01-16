@@ -3,7 +3,12 @@
 Shortcuts:
 
 1. [2023-12-05](#2023-12-05) Planning the form
-
+2. [2023-12-06](#2023-12-06) form research in Fusion 360
+3. [2023-12-19](#2023-12-19) form research in Fusion 360
+4. [2023-12-20](#2023-12-20) Components
+5. [2023-12-21](#2023-12-21) Form as it is right now
+6. [2024-01-08](#2024-01-08) Preparations for laser cutting
+7. [2024-01-16](#2024-01-16) Finished!
 <br/><br/>
 
 ###### 2023-12-05
@@ -56,7 +61,7 @@ Here's some experiments
 
 ###### 2023-12-20
 
-## Componants
+## Components
 
 - Rasberry PI
 - battery

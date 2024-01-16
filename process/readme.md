@@ -11,6 +11,11 @@ Shortcuts:
 7. [2023-12-04](#2023-12-04) Planning the electronics
 8. [2023-12-05](#2023-12-05) Planning the form
 9. [2023-12-07](#2023-12-07) ORGANIZATION
+10. [2023-12-12](#2023-12-12) Sounds and design
+11. [2023-12-13](#2023-12-13) Programming
+12. [2023-12-14](#2023-12-14) Test day!
+13. [2024-01-08](#2024-01-08) Happy New Year!
+14. [2024-01-16](#2024-01-16) Last run
 
 <br/><br/>
 
@@ -426,7 +431,7 @@ Refer to the prog readme :-)
 <br/>
 
 ###### 2023-12-14
-## Test day !
+## Test day!
 
 ![test day picture](2023-12-14/img_5234.jpg)
 
@@ -459,3 +464,5 @@ See the final presentation --> [PDF](../presentations/2024-01-final/Dossier 2401
 
 Check out the code in Programming and the form in Object.
 Thank you for reading through!
+
+(Also we have a new name: Magic house)

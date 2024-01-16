@@ -1,6 +1,11 @@
 # UI and Programming
 
-[2023-12-08](#2023-12-08) Research
+1. [2023-12-08](#2023-12-08) Research
+2. [2023-12-13](#2023-12-13) Programming day 1
+3. [2024-01-08](#2024-01-08) Working script 1
+4. [2024-01-08](#2024-01-08) GPIO mapping and Preview program
+5. [2024-01-13](#2024-01-13) New cam new program (had to start over)
+6. [2024-01-16](#2024-01-16) FINAL CODE
 
 <br/><br/>
 
