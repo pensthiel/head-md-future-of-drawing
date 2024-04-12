@@ -40,3 +40,10 @@ Questions
 - [ ] does it preview an animation the last few frame ? maybe right after the pic was taken, while we move the object
 - [ ] how will ppl understand what to do and that we should move it a frame of indications could show?
 - [ ] if there's live contact between rpi and projector we could display the tutorial at certain moments on the pojection on the wall
+
+
+
+inside the objects
+
+![](/Users/lauren/Library/Containers/bluestone/Data/Library/Application%20Support/bluestone/assets/VUwbF5oVu6M1A.jpg)
+
